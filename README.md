@@ -30,3 +30,4 @@ JavaScript – For adding interactivity and logic
 
 📷 Demo
 
+<img width="1915" height="1094" alt="Image" src="https://github.com/user-attachments/assets/04aff052-de63-458b-a71f-580dfc7902b9" />
